@@ -1,0 +1,44 @@
+.title{
+	background-color: #105179;
+	color: #ffffff;
+	padding: 2%;
+}
+.cuerpo{
+	background-color: #D3D3D3;
+}
+.frase{
+	position: absolute;
+	top: 150px;
+	color: #FFFFFF;
+}
+.navbar-brand{
+	color: #ffffff;
+}
+hr{
+	border-color: #343D46;
+	border-radius: 2px;
+}
+.bordeSuperior{
+	background-color: #2155AA;
+}
+.imagenInicio{
+	background-color: rgba(0,0,0,0.8);
+  	filter:brightness(0.8);
+}
+.card-body{
+	background-color: #343D46;
+	color: #ffffff;
+}
+.rounded{
+	background-color: rgba(0,0,0,0.8);
+  	filter:brightness(0.5);
+  	position: relative;
+}
+.footer{
+	background-color: #105179;
+	color: #ffffff;
+}
+.card{
+	border-color: #105179;
+	border-radius: 10px;
+}
